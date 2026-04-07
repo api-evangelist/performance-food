@@ -1,7 +1,12 @@
 aid: performance-food
-url: https://raw.githubusercontent.com/api-evangelist/performance-food/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/performance-food/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.performance-food.com
+description: >-
+  Performance Food Group is one of the largest foodservice distributors in North America,
+  marketing and distributing food and food-related products to independent and chain
+  restaurants and other institutional customers.
