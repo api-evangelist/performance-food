@@ -4,7 +4,7 @@ description: >-
   Performance Food Group is one of the largest foodservice distributors in North
   America, marketing and distributing food and food-related products to independent
   and chain restaurants and other institutional customers.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
