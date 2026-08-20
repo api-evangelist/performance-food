@@ -22,6 +22,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/performanc
 tags:
   - Food
   - Distribution
+  - Food Service
+  - Fortune 500
+tags_raw:
+  - Food
+  - Distribution
   - Foodservice
   - Fortune 500
 url: >-
