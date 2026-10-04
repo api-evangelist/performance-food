@@ -35,11 +35,13 @@ tags:
   - Distribution
   - Food Service
   - Fortune 500
+  - Food and Beverage
 tags_raw:
   - Food
   - Distribution
   - Foodservice
   - Fortune 500
+  - Food and Beverage
 url: >-
   https://raw.githubusercontent.com/api-evangelist/performance-food/refs/heads/main/apis.yml
 created: '2026-03-21'
